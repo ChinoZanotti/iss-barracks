@@ -37,9 +37,7 @@ npm run dev
 iss-barracks/
 ├── src/
 │   ├── assets/           # Images, icons, and JSON data
-│   ├── components/       # Reusable UI components (Cards, Modals, etc.)
-│   ├── pages/            # Main pages (Home, Crew, Missions, etc.)
-│   ├── context/          # Global state context
+│   ├── components/       # Reusable UI components
 │   └── App.jsx           # Main entry point
 ├── public/
 │   └── favicon.ico
