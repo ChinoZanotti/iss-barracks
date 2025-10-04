@@ -1,6 +1,6 @@
 export default function CharItem({ key, rankName, name, charges, ability, comment }) {
     return(
-        <div>
+        <div className="char-item">
             <button>
                 <h1>{ rankName }</h1>
                 <h3>{ name }</h3>

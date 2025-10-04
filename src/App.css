@@ -1,0 +1,26 @@
+body {
+    font-family: "Orbitron", sans-serif;
+    color: #fff;
+    background-color: #0b0f19; /* color base oscuro */
+    background-image:
+    /* Líneas horizontales finas */
+    repeating-linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.05) 0px,
+        rgba(255, 255, 255, 0.05) 2px,
+        transparent 2px,
+        transparent 6px
+    ),
+    /* Patrón de puntos sutil */
+    radial-gradient(
+        #ffffff26 1px,
+        transparent 2px
+    );
+  background-size:
+    100% 30px, /* distancia entre líneas */
+    60px 60px; /* distancia entre puntos */
+}
+
+.filtered-char-list {
+    padding: 0 5%;
+}

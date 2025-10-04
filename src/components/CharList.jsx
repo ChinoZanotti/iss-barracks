@@ -3,7 +3,7 @@ import issData from "../assets/iss.json";
 
 export default function CharList() {
   return (
-    <div>
+    <div className="char-list">
       {issData.characterAbilities.map((element) => (
         <CharItem
           key={element.id}

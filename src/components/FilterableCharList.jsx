@@ -3,7 +3,7 @@ import CharList from "./CharList";
 
 export default function FilterableCharList() {
     return(
-        <div>
+        <div className="filtered-char-list">
             <SearchBar />
             <CharList />
         </div>

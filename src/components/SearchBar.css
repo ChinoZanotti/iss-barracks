@@ -1,0 +1,11 @@
+.search-bar input[type="text"] {
+    width: 100%;
+    padding: 1em 1.5em;
+    margin: 1em 0;
+}
+
+.search-bar__filters {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
