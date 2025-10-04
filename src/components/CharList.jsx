@@ -1,5 +1,6 @@
 import CharItem from "./CharItem";
 import issData from "../assets/iss.json";
+import "./CharList.css"
 
 export default function CharList() {
   return (

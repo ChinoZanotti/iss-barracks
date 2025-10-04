@@ -1,0 +1,40 @@
+.char-item button {
+    border-radius: 2px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 0;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.char-item button h1 {
+    color: #ECDAB9;
+    padding: 0 2rem;
+    margin: 0;
+}
+
+.char-item button h3 {
+    margin: 0;
+    padding: 0 2rem 0 0;
+}
+
+.char-item__content {
+    display: none;
+}
+
+.glow-border {
+  width: .1em;
+  height: 5em;
+  border-radius: 2px;
+  border: 1px solid #ffffff79;
+  box-shadow:
+    0 0 10px #ffffff88,   /* brillo cercano */
+    0 0 30px #ffffff55,   /* brillo medio */
+    0 0 60px #ffffff33;   /* halo más difuso */
+  background: #ffffffbb;
+}

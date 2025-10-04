@@ -3,7 +3,7 @@ import './SearchBar.css';
 export default function SearchBar() {
     return(
         <form className="search-bar">
-            <input type="text" placeholder="Buscar..." />
+            <input type="text" placeholder="Buscar..." className="search-bar__input" />
             <div className='search-bar__filters'>
                 <label>
                     <input type="checkbox" />
