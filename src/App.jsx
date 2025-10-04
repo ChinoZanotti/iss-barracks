@@ -1,12 +1,9 @@
-import './App.css'
+import './App.css';
+import FilterableCharList from './components/FilterableCharList';
 
 function App() {
 
-  return (
-    <>
-      HOla
-    </>
-  )
+  return <FilterableCharList />
 }
 
 export default App

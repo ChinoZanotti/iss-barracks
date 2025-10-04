@@ -1,0 +1,314 @@
+{
+	"characterAbilities": [
+		{
+			"id": 1,
+			"name": "Alpha",
+			"rank": 1,
+			"rankName": "S",
+			"rankDescription": "god-tier, never pass up, prime candidates for A-team",
+			"charges": 3,
+			"ability": "Turn an assisting die to any side",
+			"comment": "incredible all-around. Use to set assisting Wild dice to V+V side and make any checks easy and reliable with no RNG. STUFF TWO OF THOSE RECRUITS IN RECON FIRST. Fairly early during campaign Recons get an Equipment that let other Crew assist Recon remotely from other Sectors. Recon Alphas never have a shortage of helpers! Uwe Lehmann (Alpha, Compass conversion) is a prime candidate for a Recon Section R3 operative."
+		},
+		{
+			"id": 2,
+			"name": "Loader",
+			"rank": 1,
+			"rankName": "S",
+			"rankDescription": "god-tier, never pass up, prime candidates for A-team",
+			"charges": 2,
+			"ability": "pull a personal or small Equipment from Armory",
+			"comment": "there is a lot of pretty busted personal Equipment available later in the game. Most value is Security Section, since they get the best consumable Equipment that heals injuries, manipulates timetracks, refreshes dice etc. Engineers have a single lategame busted consumable Equip as well, and there always are decent Neutral options, so you can never have too many Loaders in your team. I wouldn't recommend these in Recon, since Recon Equipment tends to have powerful passive effects rather than be consumables."
+		},
+		{
+			"id": 3,
+			"name": "Adaptive",
+			"rank": 2,
+			"rankName": "A",
+			"rankDescription": "very good, but either overshadowed by Tier S or you don't need too many of these, still great for A-team",
+			"charges": 2,
+			"ability": "Turn any die to any side",
+			"comment": "a weaker version of Alpha with a minor upside of not needing assistants. Still pretty good!"
+		},
+		{
+			"id": 4,
+			"name": "Searcher",
+			"rank": 2,
+			"rankName": "A",
+			"rankDescription": "very good, but either overshadowed by Tier S or you don't need too many of these, still great for A-team",
+			"charges": 2,
+			"ability": "Draw a Discovery from a deck with 3+ leads",
+			"comment": "a great 'Payload' ability that lets you obtain way, way more discoveries than you normally would, since you can convert triple zero leads into something useful. Combine with Pod Launcher to bypass Lander Discovery limit and you're set for juicy milkruns. You can still make Searcher work even in tough story missions if you use Science cards that convert excess Discoveries into Supplies."
+		},
+		{
+			"id": 5,
+			"name": "Alertness",
+			"rank": 2,
+			"rankName": "A",
+			"rankDescription": "very good, but either overshadowed by Tier S or you don't need too many of these, still great for A-team",
+			"charges": 3,
+			"ability": "Ignore the result of Danger die",
+			"comment": "Danger dice are the thing that makes you lose people and force Evacs. Alert crewmembers can take much more risks and reap those rewards where you wouldn't dare to roll Danger die otherwise. Do note that you roll the dice first, then decide whether to ignore the result or not! So the ability is not wasted on blank Danger die rolls."
+		},
+		{
+			"id": 6,
+			"name": "Forecast",
+			"rank": 2,
+			"rankName": "A",
+			"rankDescription": "very good, but either overshadowed by Tier S or you don't need too many of these, still great for A-team",
+			"charges": 3,
+			"ability": "Discard freshly drawn Event without any consequences",
+			"comment": "Advanced Events are another key potential loss condition (especially the nasty ones that force you to lose Equipment), and this lets you discard them without even advancing Time Tracks! Very useful, especially if you employ Early Warning System to let Forecast character handle the worst events."
+		},
+		{
+			"id": 7,
+			"name": "Disciplined",
+			"rank": 3,
+			"rankName": "B",
+			"rankDescription": "acceptable in a pinch, but you want to eventually rotate these Crewmembers for something better",
+			"charges": 2,
+			"ability": "Turn ! dice to V side",
+			"comment": "a weaker yet version of Adaptive / Alpha. It's still decent with Wild dice specifically, but by AR ruling you are not allowed to turn the die to V+V side which makes the overall ability way worse than Alpha or Adaptive which allow you to get V+V from Wild."
+		},
+		{
+			"id": 8,
+			"name": "Trump Card",
+			"rank": 3,
+			"rankName": "B",
+			"rankDescription": "acceptable in a pinch, but you want to eventually rotate these Crewmembers for something better",
+			"charges": 1,
+			"ability": "Take 1 card of any Rank from you Section compartment, add it to your hand",
+			"comment": "lets you cheat some consumable R3 cards several times per Mission. Obviously is as good as is the consumable card it pulls out. Best candidate hands down is Engineering's Tireless that lets you pull an extra Mission Equipment from the Armory, but in lategame even this usage is decidedly overshadowed by Loader."
+		},
+		{
+			"id": 9,
+			"name": "Follower",
+			"rank": 3,
+			"rankName": "B",
+			"rankDescription": "acceptable in a pinch, but you want to eventually rotate these Crewmembers for something better",
+			"charges": 3,
+			"ability": "When another Crewmember leaves your Sector, join him without paying any Travel costs",
+			"comment": "decent dice and action economy ability. Many planets tend to have quite dire travelling conditions, so its often useful."
+		},
+		{
+			"id": 10,
+			"name": "Selfless",
+			"rank": 3,
+			"rankName": "B",
+			"rankDescription": "acceptable in a pinch, but you want to eventually rotate these Crewmembers for something better",
+			"charges": 1,
+			"ability": "When Assisting commit any number of Dice to Roll Pool, then Refresh all committed dice",
+			"comment": "A turbocharged Dice Check is pretty decent even if it's only once per mission. Unfortunately for Selfless, there just are not that many long and tough progress tracks when you would want to throw 10 dice in the Pool to solve it in one go. It still is pretty great when it meets those, and they tend to become more frequent later in the game. It's probably the only 'B+' tier ability on the list."
+		},
+		{
+			"id": 10,
+			"name": "Fortitude",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Refresh 3 dice",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 11,
+			"name": "Hermit",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 1,
+			"ability": "Preserve Supplies",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 12,
+			"name": "Team Player",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Assist with 2 dice and Refresh those",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 13,
+			"name": "Hidden Reserves",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 1,
+			"ability": "Refresh all dice of one color",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 14,
+			"name": "Systematic",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 1,
+			"ability": "Refresh all dice of one color",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 15,
+			"name": "Methodical",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 1,
+			"ability": "Refresh all dice of one color",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 16,
+			"name": "Energetic",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 4,
+			"ability": "Refresh and Draw 1 extra when Resting",
+			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
+		},
+		{
+			"id": 17,
+			"name": "Reckless",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 3,
+			"ability": "Roll 'A' to move to an adjacent sector for free",
+			"comment": "great value and action economy, but rolling Danger dice, even a humble [A] still sucks. C+/B- ability."
+		},
+		{
+			"id": 18,
+			"name": "Record Keeper",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Add 1 die from Spent to Roll pool",
+			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
+		},
+		{
+			"id": 19,
+			"name": "Competent",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Draw 1 card from your discard",
+			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
+		},
+		{
+			"id": 20,
+			"name": "Well-Trained",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 3,
+			"ability": "Draw 2 cards",
+			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
+		},
+		{
+			"id": 21,
+			"name": "Soldier",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Ignore Threat Time Track progression",
+			"comment": "a stictly worse version of Forecast, less charges, useful only when facing an actually dangerous Threat. Meh."
+		},
+		{
+			"id": 22,
+			"name": "Careful",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 4,
+			"ability": "Remove ! from Roll Pool",
+			"comment": "meh. Almost strictly worse than Alpha, effect is easily replicated by Section cards."
+		},
+		{
+			"id": 23,
+			"name": "Unbreakable",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Replace your Injury with Wounded injury",
+			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
+		},
+		{
+			"id": 24,
+			"name": "Endurance",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 3,
+			"ability": "Ignore result of 1 Injury die",
+			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
+		},
+		{
+			"id": 25,
+			"name": "Protector",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 1,
+			"ability": "Disregard an Injury of a Crewmember in your Sector",
+			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
+		},
+		{
+			"id": 26,
+			"name": "Efficient",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Spend a Dice instead of Sacrificing",
+			"comment": "this effect is actually pretty good, since later in the game you are forced to Sacrifice dice fairly often due to various reasons and it's a major pain every time. Unfortunately, lion's share of those reasons still come from Events and Danger dice, so Efficient is redundant with Forecast and Alertness both of which bring 3 charges."
+		},
+		{
+			"id": 27,
+			"name": "Insight",
+			"rank": 4,
+			"rankName": "C",
+			"rankDescription": "meh. At least you are not actively harming yourself",
+			"charges": 2,
+			"ability": "Draw a Discovery from a deck with Lead score of 2",
+			"comment": "inferior to Searcher."
+		},
+		{
+			"id": 28,
+			"name": "Brute Force",
+			"rank": 5,
+			"rankName": "D",
+			"rankDescription": "okay, now you actually ARE actively harming yourself. Why are these in the game even?",
+			"charges": 2,
+			"ability": "Discard any number of cards, Refresh 1 die for each discarded",
+			"comment": "What? Other people get to refresh 3 dice for free, and this guy needs to also discard 3 cards while at it? I wouldn't pick him even if his ability had 10 charges..."
+		},
+		{
+			"id": 29,
+			"name": "Advisor",
+			"rank": 5,
+			"rankName": "D",
+			"rankDescription": "okay, now you actually ARE actively harming yourself. Why are these in the game even?",
+			"charges": 3,
+			"ability": "Assist Crewmember in any Sector",
+			"comment": "just stick together or use Streaming Rig, OK?"
+		},
+		{
+			"id": 30,
+			"name": "Wild Card",
+			"rank": 5,
+			"rankName": "D",
+			"rankDescription": "okay, now you actually ARE actively harming yourself. Why are these in the game even?",
+			"charges": 2,
+			"ability": "Move all ! to Spent pool IF you have at least two V in Roll Pool",
+			"comment": "How is this better than an already mediocre Careful? You could also, you know, replicate the effect by using Section cards. I get that it's supposed to support 'ROLL ALL THE WILD DICE' approach, but it's a very subpar strategy and this ability does not help at all. I'm especially livid at the fact that one of the four starting characters is a Wild Card. Not only this ability is a mouthful of a rules to get through for a new player, but it's also terrible? Huh?"
+		}
+	]
+}
