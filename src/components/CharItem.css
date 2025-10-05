@@ -28,7 +28,7 @@
 }
 
 .glow-border {
-  width: .1em;
+  width: .3em;
   height: 5em;
   border-radius: 2px;
   border: 1px solid #ffffff79;
@@ -37,4 +37,21 @@
     0 0 30px #ffffff55,   /* brillo medio */
     0 0 60px #ffffff33;   /* halo más difuso */
   background: #ffffffbb;
+}
+
+.char-item__content {
+  padding: 0 1em 1em;
+}
+
+.char-item__content p {
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+
+.char-item__content span {
+  background-color: #ffffffb6;
+  color: #000;
+  font-weight: 700;
+  padding: .1em .7em;
+  margin-right: .5em;
 }
