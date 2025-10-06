@@ -21,6 +21,7 @@ export default function FilterableCharList() {
         <div className="filtered-char-list">
             <SearchBar 
                 filterText={filterText}
+                onFilterTextChange={setFilterText}
                 ranks={RANKS}
                 selected={selectedRanks}
                 onToggle={toggleRank}

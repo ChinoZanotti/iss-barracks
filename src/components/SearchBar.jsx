@@ -2,11 +2,11 @@ import "./SearchBar.css";
 
 export default function SearchBar({
   filterText,
-  onFilterTextChange,   // <-- agregamos handler
+  onFilterTextChange,
   ranks,
-  selected,             // Set de rangos
-  onToggle,             // (r) => void
-  onClear,              // () => void
+  selected,
+  onToggle,
+  onClear,
 }) {
   const hasAny = selected?.size > 0 || (filterText ?? "").length > 0;
 
