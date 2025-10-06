@@ -3,10 +3,14 @@ import CharList from "./CharList";
 import { useState } from "react";
 import issLogo from '../assets/iss-logo.webp';
 import './FilterableCharList.css';
+import issData from "../assets/iss.json";
 
 export default function FilterableCharList() {
 
-    const RANKS = [1,2,3,4,5];
+    const RANKS = [...new Set (
+        issData.characterAbilities.map((char) => char.rankName)
+    )
+    ];
 
     const [filterText, setFilterText] = useState('');
     const [selectedRanks, setSelectedRanks] = useState(new Set());

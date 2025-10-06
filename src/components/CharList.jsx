@@ -12,7 +12,7 @@ export default function CharList({ selectedRanks, filterText }) {
     char.name.toLowerCase().includes(filterText.toLowerCase())
     )
     .filter((char) => 
-    hasAnyRank ? selectedRanks.has(char.rank) : true
+    hasAnyRank ? selectedRanks.has(char.rankName) : true
     );
   }, [selectedRanks, filterText]);
 
@@ -21,7 +21,7 @@ export default function CharList({ selectedRanks, filterText }) {
       {filteredCharacters.map((element) => (
         <CharItem
           key={element.id}
-          rank={element.rank}
+          rank={element.rankName}
           name={element.name}
           charges={element.charges}
           ability={element.ability}
