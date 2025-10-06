@@ -1,6 +1,8 @@
 import SearchBar from "./SearchBar";
 import CharList from "./CharList";
 import { useState } from "react";
+import issLogo from '../assets/iss-logo.webp';
+import './FilterableCharList.css';
 
 export default function FilterableCharList() {
 
@@ -19,6 +21,9 @@ export default function FilterableCharList() {
 
     return(
         <div className="filtered-char-list">
+            <div className="logo-container">
+                <img src={issLogo} />
+            </div>
             <SearchBar 
                 filterText={filterText}
                 onFilterTextChange={setFilterText}
