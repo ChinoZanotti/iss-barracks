@@ -101,7 +101,7 @@
 			"comment": "A turbocharged Dice Check is pretty decent even if it's only once per mission. Unfortunately for Selfless, there just are not that many long and tough progress tracks when you would want to throw 10 dice in the Pool to solve it in one go. It still is pretty great when it meets those, and they tend to become more frequent later in the game. It's probably the only 'B+' tier ability on the list."
 		},
 		{
-			"id": 10,
+			"id": 11,
 			"name": "Fortitude",
 			"rank": 4,
 			"rankName": "C",
@@ -111,7 +111,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 11,
+			"id": 12,
 			"name": "Hermit",
 			"rank": 4,
 			"rankName": "C",
@@ -121,7 +121,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 12,
+			"id": 13,
 			"name": "Team Player",
 			"rank": 4,
 			"rankName": "C",
@@ -131,7 +131,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 13,
+			"id": 14,
 			"name": "Hidden Reserves",
 			"rank": 4,
 			"rankName": "C",
@@ -141,7 +141,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 14,
+			"id": 15,
 			"name": "Systematic",
 			"rank": 4,
 			"rankName": "C",
@@ -151,7 +151,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 15,
+			"id": 16,
 			"name": "Methodical",
 			"rank": 4,
 			"rankName": "C",
@@ -161,7 +161,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 16,
+			"id": 17,
 			"name": "Energetic",
 			"rank": 4,
 			"rankName": "C",
@@ -171,7 +171,7 @@
 			"comment": "these are all boring and fairly inefficient compared to other action/dice/card economy abilities. The main argument against those is actually Alpha; Alpha lets you conserve a lot of dice and actions by passing tough Dice Checks without excessive resource commitment due to how RNG-independent Alpha is. If I had to pick one of those Crew for Away Team, I'd go with Fortitude since it' the most flexible and lets you recycle your best dice as necessary."
 		},
 		{
-			"id": 17,
+			"id": 18,
 			"name": "Reckless",
 			"rank": 4,
 			"rankName": "C",
@@ -181,7 +181,7 @@
 			"comment": "great value and action economy, but rolling Danger dice, even a humble [A] still sucks. C+/B- ability."
 		},
 		{
-			"id": 18,
+			"id": 19,
 			"name": "Record Keeper",
 			"rank": 4,
 			"rankName": "C",
@@ -191,7 +191,7 @@
 			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
 		},
 		{
-			"id": 19,
+			"id": 20,
 			"name": "Competent",
 			"rank": 4,
 			"rankName": "C",
@@ -201,7 +201,7 @@
 			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
 		},
 		{
-			"id": 20,
+			"id": 21,
 			"name": "Well-Trained",
 			"rank": 4,
 			"rankName": "C",
@@ -211,7 +211,7 @@
 			"comment": "listing those separately from other resource generation because you can use these abilities during Dice Checks to 'fix' your combos when you whiff. Unfortunately, it still does not make them good enough."
 		},
 		{
-			"id": 21,
+			"id": 22,
 			"name": "Soldier",
 			"rank": 4,
 			"rankName": "C",
@@ -221,7 +221,7 @@
 			"comment": "a stictly worse version of Forecast, less charges, useful only when facing an actually dangerous Threat. Meh."
 		},
 		{
-			"id": 22,
+			"id": 23,
 			"name": "Careful",
 			"rank": 4,
 			"rankName": "C",
@@ -231,7 +231,7 @@
 			"comment": "meh. Almost strictly worse than Alpha, effect is easily replicated by Section cards."
 		},
 		{
-			"id": 23,
+			"id": 24,
 			"name": "Unbreakable",
 			"rank": 4,
 			"rankName": "C",
@@ -241,7 +241,7 @@
 			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
 		},
 		{
-			"id": 24,
+			"id": 25,
 			"name": "Endurance",
 			"rank": 4,
 			"rankName": "C",
@@ -251,7 +251,7 @@
 			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
 		},
 		{
-			"id": 25,
+			"id": 26,
 			"name": "Protector",
 			"rank": 4,
 			"rankName": "C",
@@ -261,7 +261,7 @@
 			"comment": "meh. Situational. Once you start running R3 Security cards (Field Surgery) these become essentially obsolete for entire Away Team. Also, since most Injuries come from Events and Danger dice, Alertness and Forecast are pretty much always superior to these."
 		},
 		{
-			"id": 26,
+			"id": 27,
 			"name": "Efficient",
 			"rank": 4,
 			"rankName": "C",
@@ -271,7 +271,7 @@
 			"comment": "this effect is actually pretty good, since later in the game you are forced to Sacrifice dice fairly often due to various reasons and it's a major pain every time. Unfortunately, lion's share of those reasons still come from Events and Danger dice, so Efficient is redundant with Forecast and Alertness both of which bring 3 charges."
 		},
 		{
-			"id": 27,
+			"id": 28,
 			"name": "Insight",
 			"rank": 4,
 			"rankName": "C",
@@ -281,7 +281,7 @@
 			"comment": "inferior to Searcher."
 		},
 		{
-			"id": 28,
+			"id": 29,
 			"name": "Brute Force",
 			"rank": 5,
 			"rankName": "D",
@@ -291,7 +291,7 @@
 			"comment": "What? Other people get to refresh 3 dice for free, and this guy needs to also discard 3 cards while at it? I wouldn't pick him even if his ability had 10 charges..."
 		},
 		{
-			"id": 29,
+			"id": 30,
 			"name": "Advisor",
 			"rank": 5,
 			"rankName": "D",
@@ -301,7 +301,7 @@
 			"comment": "just stick together or use Streaming Rig, OK?"
 		},
 		{
-			"id": 30,
+			"id": 31,
 			"name": "Wild Card",
 			"rank": 5,
 			"rankName": "D",
